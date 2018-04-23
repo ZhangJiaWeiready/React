@@ -1,0 +1,1 @@
+// 入口文件import React from 'react'//ReactDOM.render 通过结构赋值import {render} from 'react-dom'import App from './App'render(<App/>,document.getElementById('root'))
